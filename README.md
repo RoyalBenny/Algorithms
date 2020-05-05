@@ -1,2 +1,3 @@
 # Algorithms
-This file contain algorithms 
+This file contains basic algorithms helpful in coding competitions.
+
